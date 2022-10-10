@@ -1,2 +1,1 @@
-print("miguel benedetty")
-print("malambo")
+prtn("hola")
